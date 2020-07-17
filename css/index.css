@@ -144,8 +144,8 @@ button:hover{
     nav a{
         font-size: 2rem;
     }
-    button{
-        
+    nav span{
+        border-left: 2px solid grey;
     }
     .home{
         font-weight: bolder;
